@@ -1,1 +1,3 @@
-# test
+A DAT file is a generic data file created by a specific application.
+It may contain data in binary or text format (text-based DAT files can be viewed in a text editor).
+DAT files are typically accessed only by the application that created them. Many programs create, open, or reference DAT files.
