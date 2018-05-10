@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" id="/style.css"?>
+<MAIN>
+     <TITLEBAR>Web XML</TITLEBAR>
+     <CONTENT>
+         <CARD>
+             <LARGE>Hello World</LARGE>
+             <TEXT>This is an example of an XML Document (Limited due to the .html file extension)</TEXT>
+             <VARIABLE name="x" value="hello world"></VARIABLE>
+         </CARD>
+     </CONTENT>
+</MAIN>
